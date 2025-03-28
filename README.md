@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on High Performance Scientific Computing & Flutter game<br>🌱 I’m currently learning Flutter & Spring
+🔭 I’m currently working on High Performance Scientific Computing & Parallel Programming<br>🌱 I’m currently learning Kubernetes
 
 
 ## 🌐 Socials:
